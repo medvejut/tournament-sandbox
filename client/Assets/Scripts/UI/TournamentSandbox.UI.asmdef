@@ -1,0 +1,21 @@
+{
+    "name": "TournamentSandbox.UI",
+    "rootNamespace": "TournamentSandbox.UI",
+    "references": [
+        "TournamentSandbox.Core",
+        "TournamentSandbox.Game",
+        "TournamentSandbox.Net",
+        "UnityEngine.UI",
+        "Unity.TextMeshPro",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

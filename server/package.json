@@ -1,0 +1,21 @@
+{
+  "name": "tournament-sandbox-server",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Server-authoritative async 1v1 Speed Bingo tournament server (pet project).",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/server.ts",
+    "test": "node --test test/*.test.ts",
+    "typecheck": "tsc --noEmit",
+    "vectors": "node scripts/gen-vectors.ts",
+    "second-player": "node scripts/second-player.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "typescript": "^7.0.2"
+  }
+}

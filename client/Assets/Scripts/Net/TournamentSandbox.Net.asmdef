@@ -1,0 +1,17 @@
+{
+    "name": "TournamentSandbox.Net",
+    "rootNamespace": "TournamentSandbox.Net",
+    "references": [
+        "TournamentSandbox.Core",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,23 @@
+{
+    "name": "TournamentSandbox.Bootstrap",
+    "rootNamespace": "TournamentSandbox.Bootstrap",
+    "references": [
+        "TournamentSandbox.Core",
+        "TournamentSandbox.Net",
+        "TournamentSandbox.Game",
+        "TournamentSandbox.UI",
+        "UnityEngine.UI",
+        "UniTask",
+        "VContainer",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

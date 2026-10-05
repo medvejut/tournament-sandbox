@@ -1,0 +1,20 @@
+node_modules/
+
+# Unity
+client/[Ll]ibrary/
+client/[Tt]emp/
+client/[Oo]bj/
+client/[Bb]uild/
+client/[Bb]uilds/
+client/[Ll]ogs/
+client/[Uu]ser[Ss]ettings/
+client/*.csproj
+client/*.sln
+client/*.slnx
+client/.vs/
+client/.idea/
+client/TestResults*.xml
+
+# Local only
+PLAN.md
+*.DotSettings.user
